@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/eccomerceapp.github.io/static/css/main.86c37c08.css",
+    "main.js": "/eccomerceapp.github.io/static/js/main.7918ce26.js",
+    "static/js/787.4ec90cb7.chunk.js": "/eccomerceapp.github.io/static/js/787.4ec90cb7.chunk.js",
+    "static/media/layer.png": "/eccomerceapp.github.io/static/media/layer.38daa275f8c95f3e88f7.png",
+    "static/media/product5.png": "/eccomerceapp.github.io/static/media/product5.a7df175425d0b259260b.png",
+    "static/media/image.png": "/eccomerceapp.github.io/static/media/image.9a4451e09dd802e3277c.png",
+    "static/media/slider.png": "/eccomerceapp.github.io/static/media/slider.9a4451e09dd802e3277c.png",
+    "static/media/logo.gif": "/eccomerceapp.github.io/static/media/logo.e7bf96734949f3587394.gif",
+    "static/media/man.png": "/eccomerceapp.github.io/static/media/man.683ceb3c885203c60f1b.png",
+    "static/media/slider1.png": "/eccomerceapp.github.io/static/media/slider1.f3a2d4df6fad2d4e2a99.png",
+    "static/media/product14.png": "/eccomerceapp.github.io/static/media/product14.3183dbbee57cebee6597.png",
+    "static/media/product13.png": "/eccomerceapp.github.io/static/media/product13.d29ff8cf21896aeb7010.png",
+    "static/media/404.gif": "/eccomerceapp.github.io/static/media/404.41c9a2d82ae0826e6c42.gif",
+    "static/media/product20.png": "/eccomerceapp.github.io/static/media/product20.62e50dd91a027e3b6780.png",
+    "static/media/product12.png": "/eccomerceapp.github.io/static/media/product12.61c5c4d104220077a3d0.png",
+    "static/media/product2.png": "/eccomerceapp.github.io/static/media/product2.2344b9a28218d5d15244.png",
+    "static/media/product7.png": "/eccomerceapp.github.io/static/media/product7.2344b9a28218d5d15244.png",
+    "static/media/product1.png": "/eccomerceapp.github.io/static/media/product1.63b09a12d706704e9541.png",
+    "static/media/product4.png": "/eccomerceapp.github.io/static/media/product4.783ac8d288e40b623106.png",
+    "static/media/product8.png": "/eccomerceapp.github.io/static/media/product8.783ac8d288e40b623106.png",
+    "static/media/product9.png": "/eccomerceapp.github.io/static/media/product9.783ac8d288e40b623106.png",
+    "static/media/product10.png": "/eccomerceapp.github.io/static/media/product10.85e4ff6fc01babb8fe9c.png",
+    "static/media/bootstrap-icons.woff?": "/eccomerceapp.github.io/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/account.gif": "/eccomerceapp.github.io/static/media/account.9e9eb38cf74e40a10cc9.gif",
+    "static/media/bootstrap-icons.woff2?": "/eccomerceapp.github.io/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/product11.png": "/eccomerceapp.github.io/static/media/product11.eb6f7b450e1090dbba2e.png",
+    "static/media/product6.png": "/eccomerceapp.github.io/static/media/product6.98cfa5ebc3c1a1fa23a0.png",
+    "static/media/layer1.png": "/eccomerceapp.github.io/static/media/layer1.96f9941ad50e51f6f42b.png",
+    "static/media/cart.webp": "/eccomerceapp.github.io/static/media/cart.c1b29ed47e2361efe393.webp",
+    "index.html": "/eccomerceapp.github.io/index.html",
+    "main.86c37c08.css.map": "/eccomerceapp.github.io/static/css/main.86c37c08.css.map",
+    "main.7918ce26.js.map": "/eccomerceapp.github.io/static/js/main.7918ce26.js.map",
+    "787.4ec90cb7.chunk.js.map": "/eccomerceapp.github.io/static/js/787.4ec90cb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86c37c08.css",
+    "static/js/main.7918ce26.js"
+  ]
+}
